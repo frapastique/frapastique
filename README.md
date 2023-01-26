@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaidis Volkovs</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+<img align="right" alt="Coding" width="355" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frapastique&label=Profile%20views&color=450e59&style=plastic" alt="frapastique" /> </p>
 
 - 🌱 I’m currently learning **Kotlin**
